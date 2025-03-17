@@ -7,10 +7,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "header.subtitle"
-msgstr "nu spune doar salut în chat"
+msgstr "nu spune doar \"salut\" în chat"
 
 msgid "header.introduction"
-msgstr "Dacă ai suna pe cineva la telefon, ai spune _hey, salut!_ și apoi ai da ocupat?... 🤦‍♀️"
+msgstr "Dacă ai suna pe cineva la telefon, ai spune _hey, salut!_ și apoi ai da ocupat?!... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
 msgstr "Petre"
@@ -31,7 +31,7 @@ msgid "example.character.good.avatar-description"
 msgstr "Cristina's Slack avatar"
 
 msgid "example.bad.title"
-msgstr "❌ Nu fă asta"
+msgstr "❌ Nu fă asta:"
 
 # the placeholder is the year, i.e. "2022"
 msgid "example.bad.body"
@@ -90,7 +90,7 @@ msgstr ""
 "- \"hey, dacă nu ești f ocupat, scrii te rog documentația aia?\"\n"
 "- etc.\n"
 "\n"
-"Poate părea trivial, dar facă pui întrebarea înainte de a fi salutat înapoi e **comunicare asincronă**. Dacă cealaltă persoană nu e la birou/calculator/ecran chiar atunci, iar tu pleci înainte de a se întoarce, persoana tot poate să-ți răspundă, în loc să se uite la un \"Hey, salut!\" întrebându-se despre ce o fi vorba.\n"
+"Poate părea trivial, dar dacă pui întrebarea fără să aștepți să fii salutat înapoi, asta permite **comunicarea asincronă**. Dacă cealaltă persoană nu e la birou/calculator/ecran chiar atunci, iar tu pleci înainte de a se întoarce, persoana tot poate să-ți răspundă, în loc să se uite la un \"Hey, salut!\" întrebându-se despre ce o fi vorba.\n"
 "\n"
 "Când scriem frumos, toată lumea e fericită! 🎉\n"
 
