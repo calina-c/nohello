@@ -104,7 +104,7 @@ msgid "example.good.reply1.timestamp"
 msgstr "14:15"
 
 msgid "example.good.reply1.body"
-msgstr "hey, la 15:30"
+msgstr "hei, la 15:30"
 
 msgid "example.good.message2.timestamp"
 msgstr "14:15"
