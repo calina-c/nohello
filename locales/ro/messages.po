@@ -126,7 +126,7 @@ msgid "footer.warning"
 msgstr "Acestea fiind zise, dacă vezi acest site la cineva la status/descriere, probabil vei fi ignorat dacă spui doar \"Salut!\""
 
 msgid "footer.thanks"
-msgstr "Bazat pe superbul [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/). Avatar-ele sunt luate din *[The Office](https://en.wikipedia.org/wiki/The_Office_(British_TV_series))*. Open-source pe [GitHub](https://github.com/nohello-net/site)."
+msgstr "Bazat pe superbul [nohello.com](https://web.archive.org/web/20131127020115/http://www.nohello.com/). Imaginile de profil sunt luate din *[The Office](https://ro.wikipedia.org/wiki/The_Office_(serial_britanic))*. Open-source pe [GitHub](https://github.com/nohello-net/site)."
 
 # prefix before a list of languages, i.e. This site is available in: English, French, & German
 msgid "footer.languages"
