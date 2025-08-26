@@ -16,7 +16,7 @@ msgid "example.character.neutral.name"
 msgstr "Petre"
 
 msgid "example.character.neutral.avatar-description"
-msgstr "Petre's Slack avatar"
+msgstr "Imaginea de profil a lui Petre"
 
 msgid "example.character.bad.name"
 msgstr "Florin"
