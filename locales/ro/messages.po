@@ -10,7 +10,7 @@ msgid "header.subtitle"
 msgstr "nu spune doar \"salut\" în chat"
 
 msgid "header.introduction"
-msgstr "Dacă ai suna pe cineva la telefon, ai spune _hey, salut!_ și apoi ai da ocupat?!... 🤦‍♀️"
+msgstr "Dacă ai suna pe cineva la telefon, ai spune _hey, salut!_ și apoi ai pune apelul în așteptare?!... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
 msgstr "Petre"
