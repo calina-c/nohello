@@ -22,7 +22,7 @@ msgid "example.character.bad.name"
 msgstr "Florin"
 
 msgid "example.character.bad.avatar-description"
-msgstr "Florin's Slack avatar"
+msgstr "Imaginea de profil a lui Florin"
 
 msgid "example.character.good.name"
 msgstr "Cristina"
